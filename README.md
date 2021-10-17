@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarwaAbdallah
-- 👀 I’m interested in Backend Development and Cyber Security
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in Backend Development and Cyber Security. I’m currently learning about Payment Systems
+- 🌱 My new blog is marwaabdallah.com
 - 📫 How to reach me : abdallah.mohamed.kamil@gmail.com
 
 <!---
