@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @MarwaAbdallah
-- 👀  I’m interested in Backend Development and Cyber Security. I’m currently learning about Payment Systems
-- 🌱  My new blog is [marwaabdallah.com](https://www.marwaabdallah.com/)
+- 👋  Hi, I’m @MarwaAbdallah, a software dev with a background in infrastructure security, based in Toronto, Canada.
+- I am currently on a hiatus, enjoying family time in France and exploring open source projects to contribute to, combining my passions for security and development.
+- 🌱  My blog is [marwaabdallah.com](https://www.marwaabdallah.com/)
 - 📫  How to reach me : abdallah.mohamed.kamil@gmail.com
 
 <!---
